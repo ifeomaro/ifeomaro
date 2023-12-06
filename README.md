@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-I'm an experienced (8+ years) Software Engineer specializing in Android. I enjoying building and breaking apps 😀. Thanks for stopping by! Come back soon for a list of my recent projects 👋.
-
-
+Thanks for stopping by! Come back soon for a list of my recent projects 👋.
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXV5ZG5tdDhiOHJ2aGduMm1jaHIyOXA4NDhlajk5aWRjZDR4Y2RoNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xZsLh7B3KMMyUptD9D/giphy.gif" alt="Image of a girl wearing a yellow construction hat and hitting a wall with a hammer" width="960" height="540" />
 
